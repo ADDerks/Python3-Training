@@ -19,3 +19,4 @@ def greet_customer(special_item):
 	print("Welcome to Engrossing Grocers.")
 	print("Today's Special is" + special_item + ".")
 	print("Have fun shopping!")
+
