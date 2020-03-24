@@ -22,3 +22,12 @@ def greet_customer(special_item):
 # put what you want displayed as the special item, inside the call for the function's parenthesis. (see below).
 greet_customer("peanut butter")
 # displays peanut butter into the special of the day message.
+
+def mult_two_add_three(number):
+	# number = 5
+	print(number * 2 + 3)
+
+# Call mult_two_add_three() here:
+mult_two_add_three(0)
+
+
